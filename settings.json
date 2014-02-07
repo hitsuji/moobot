@@ -1,0 +1,9 @@
+{
+    "server":        "irc.freenode.net",
+    "port":          6667,
+    "channels":      [ "##channel1", "##channel2" ],
+    "nickname":      "hitsujiBOT",
+    "nickserv_pass": "nothingtoseehere",
+    "trigger":       "hitsu",
+    "admins":        [ "hitsujiTMO" ]
+}
